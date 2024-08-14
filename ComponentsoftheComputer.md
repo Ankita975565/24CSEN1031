@@ -1,9 +1,9 @@
-#**Input device**
+#Input device
 keyboard, 
 mouse,
 joystick, 
 scanner.
 
-#**CPU**
+#CPU
 RAM
 ROM
