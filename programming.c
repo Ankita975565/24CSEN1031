@@ -11,3 +11,9 @@ int main() {
          printf("\n The nubmber %d is positive and odd", a);
      return 0;
      }
+
+Output
+Enter an integer (positive or negative): 2
+The nubmber 2 is positive and even
+
+=== Code Execution Successful ===
